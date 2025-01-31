@@ -48,4 +48,4 @@ I chose to use `mmap` for efficient file reading to extract logs based on a spec
 ## Steps to Run:
 1. **Download the files in src folder**
 2. **Download the log file**
-3. ** In the IDE terminal run ```python extract_logs.py 2024-12-01``` to get the output in output folder in the IDE output folder**    
+3. ** In the IDE terminal run ```python extract_logs.py 2024-12-01``` to get the output in output folder in         the IDE output folder**    
