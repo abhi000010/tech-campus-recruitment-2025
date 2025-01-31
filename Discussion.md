@@ -46,7 +46,6 @@ if __name__ == "__main__":
 I chose to use `mmap` for efficient file reading to extract logs based on a specific date. The solution reads through the log file line by line and checks if the line starts with the specified date. If a match is found, it writes that line to a new file. I decided to implement the solution in Python due to its ease of use, file handling capabilities, and the built-in support for `mmap`.
 
 ## Steps to Run:
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/forked-repository-name.git
-   cd forked-repository-name
+1. **Copy the source code**
+2. **Download the log file**
+3. **paste code on IDE with name ```extract_logs.py``` on the same folder and run example given on terminal**    
